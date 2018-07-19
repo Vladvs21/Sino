@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">first_page</string>
+    <string name="settings">settings</string>
+    <string name="add">add new file</string>
+    <string name="search">search</string>
+    <string name="Get_string">Get string</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>

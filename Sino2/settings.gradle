@@ -1,0 +1,1 @@
+include ':Sino', ':app', ':base', ':instantapp'
